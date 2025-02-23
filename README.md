@@ -7,11 +7,11 @@ Currently, I'm focused on learning **A/B testing**, **experiment design**, **dat
 
 ### 🛠️ Tools I Use:
 
-🗃️**SQL** (*for database management*)
-🐍**Python** (*Pandas, Matplotlib, NumPy*) (*for data processing and analysis*)
-📊**Tableau** (*for creating data visualizations*)
-📈**Excel** (*for spreadsheets and analysis*)
-🖥️**Streamlit** (*for building interactive data apps and dashboards*)
+🗃️ **SQL** (*for database management*)  
+🐍 **Python** (*Pandas, Matplotlib, NumPy*) (*for data processing and analysis*)  
+📊 **Tableau** (*for creating data visualizations*)  
+📈 **Excel** (*for spreadsheets and analysis*)  
+🖥️ **Streamlit** (*for building interactive data apps and dashboards*)
 
 
 I’m excited to apply my skills to **real-world challenges**, contribute to impactful projects, and **continue growing** as a data professional.  
