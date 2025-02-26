@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-I’m a **Data Analyst** with a strong foundation in **SQL**, **Python** programming, **data visualization** (using tools like **Tableau** and **Excel**), and **Business Intelligence**.  
-I’m passionate about using **data** to solve real-world problems and deliver actionable insights that help drive business decisions.  
-Currently, I'm focused on learning **A/B testing**, **experiment design**, **data governance**, and how to make **data-informed decisions**.
-
+I’m a **Data Analyst** passionate about using **data** to solve real-world problems and deliver actionable insights that help drive business decisions.  
 
 ### 🛠️ Tools I Use:
 
